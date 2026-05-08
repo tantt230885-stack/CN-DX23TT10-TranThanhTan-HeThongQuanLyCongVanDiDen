@@ -1,4 +1,4 @@
-# CN-DX23TT10-TranThanhTan-HeThongQuanLyCongVanDiDen
+
 ## 📖 Giới thiệu đề tài
 Hệ thống Quản Lý Công Văn Đi Đến được xây dựng nhằm hỗ trợ cơ quan/doanh nghiệp trong việc:
 
