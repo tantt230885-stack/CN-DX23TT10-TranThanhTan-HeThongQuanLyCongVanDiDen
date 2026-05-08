@@ -29,9 +29,4 @@ Hệ thống giúp tối ưu quy trình xử lý văn bản, giảm thất lạc
 - Phân quyền người dùng
 - Thống kê số lượng công văn
 
-- ## 🧰 Công nghệ sử dụng
-- **Backend:** Spring Boot  
-- **Frontend:** HTML, CSS, JavaScript, Thymeleaf  
-- **Database:** MySQL  
-- **IDE:** IntelliJ IDEA / VS Code  
-- **Version Control:** Git & GitHub 
+  
