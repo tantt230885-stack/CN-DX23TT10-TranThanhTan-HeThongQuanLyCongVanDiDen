@@ -29,4 +29,10 @@ Hệ thống giúp tối ưu quy trình xử lý văn bản, giảm thất lạc
 - Phân quyền người dùng
 - Thống kê số lượng công văn
 
+# Hướng dẫn sử dụng
+## Cài Môi trường ( hướng dẫn cài trong thư mục refs) 
+- Cài đặt nodeJs
+- cài đặt Vscode
+- cài đặt mySQL
+
   
