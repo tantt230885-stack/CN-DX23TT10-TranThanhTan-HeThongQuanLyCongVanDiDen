@@ -31,8 +31,14 @@ Hệ thống giúp tối ưu quy trình xử lý văn bản, giảm thất lạc
 
 # Hướng dẫn sử dụng
 ## Cài Môi trường ( hướng dẫn cài trong thư mục theis/refs) 
+[📄 Đề cương chi tiết](./thesis/refs)
 - Cài đặt nodeJs
 - cài đặt Vscode
 - cài đặt mySQL
-
+## 📌 Links
+| Tài liệu | Link |
+|---|---|
+| ReactJS | https://react.dev/ |
+| NodeJS | https://nodejs.org/ |
+| mySQL | https://dev.mysql.com/downloads/installer/|
   
