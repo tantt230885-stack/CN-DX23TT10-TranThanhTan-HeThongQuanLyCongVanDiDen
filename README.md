@@ -30,7 +30,7 @@ Hệ thống giúp tối ưu quy trình xử lý văn bản, giảm thất lạc
 - Thống kê số lượng công văn
 
 # Hướng dẫn sử dụng
-## Cài Môi trường ( hướng dẫn cài trong thư mục refs) 
+## Cài Môi trường ( hướng dẫn cài trong thư mục theis/refs) 
 - Cài đặt nodeJs
 - cài đặt Vscode
 - cài đặt mySQL
