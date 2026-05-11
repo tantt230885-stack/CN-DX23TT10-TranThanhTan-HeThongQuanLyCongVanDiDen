@@ -38,7 +38,6 @@ Hệ thống giúp tối ưu quy trình xử lý văn bản, giảm thất lạc
 ## 📌 Links
 | Tài liệu | Link |
 |---|---|
-| ReactJS | https://react.dev/ |
-| NodeJS | https://nodejs.org/ |
+| NodeJS | https://nodejs.org/en/download |
 | mySQL | https://dev.mysql.com/downloads/installer/|
   
