@@ -42,3 +42,9 @@ Hệ thống giúp tối ưu quy trình xử lý văn bản, giảm thất lạc
 | mySQL | https://dev.mysql.com/downloads/installer/|
 |Visua Studio Code| https://code.visualstudio.com/download |
   
+## 📞 Contact
+
+Nếu có thắc mắc hoặc góp ý, vui lòng liên hệ:
+
+- **Phone/zalo:** 0938443986
+- **Email:** tantt230885@sv-onuni.edu.vn
