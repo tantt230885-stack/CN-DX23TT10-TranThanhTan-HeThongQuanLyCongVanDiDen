@@ -1,0 +1,9 @@
+@use '../../styles/variables.scss' as *;
+
+.toolbar {
+  display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px;
+}
+.filters {
+  display: grid; grid-template-columns: 2fr 1fr 1fr 1fr auto;
+  gap: 8px; margin-bottom: 16px;
+}

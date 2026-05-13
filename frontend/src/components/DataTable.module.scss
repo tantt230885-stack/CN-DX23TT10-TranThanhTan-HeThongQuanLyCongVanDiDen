@@ -1,0 +1,12 @@
+@use '../styles/variables.scss' as *;
+
+.wrap { background: white; border-radius: $radius; box-shadow: $shadow; overflow: hidden; }
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  th, td { padding: 10px 14px; text-align: left; border-bottom: 1px solid $border; }
+  th { background: #f9fafb; font-weight: 600; font-size: 13px; color: $text-muted; }
+  tbody tr:hover { background: #f9fafb; }
+}
+.empty { text-align: center; color: $text-muted; padding: 24px !important; }
+.actions { display: flex; gap: 6px; white-space: nowrap; }

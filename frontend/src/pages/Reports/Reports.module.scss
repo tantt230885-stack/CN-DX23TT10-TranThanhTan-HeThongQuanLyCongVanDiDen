@@ -1,0 +1,23 @@
+@use '../../styles/variables.scss' as *;
+
+.head { display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px; }
+.filters {
+  display: flex; gap: 12px; align-items: end; margin-bottom: 16px;
+  background: white; padding: 16px; border-radius: $radius; box-shadow: $shadow;
+  label { display: flex; flex-direction: column; gap: 4px; font-size: 13px; }
+  input { width: 160px; }
+}
+.cards {
+  display: grid; grid-template-columns: repeat(5, 1fr); gap: 16px; margin-bottom: 24px;
+}
+.row { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 16px; }
+.chart {
+  background: white; padding: 20px; border-radius: $radius; box-shadow: $shadow;
+  margin-bottom: 16px;
+  h3 { margin-top: 0; font-size: 15px; }
+}
+
+@media print {
+  :global(.app) :global(aside), :global(.app) :global(header) { display: none !important; }
+  .head button, .filters { display: none; }
+}

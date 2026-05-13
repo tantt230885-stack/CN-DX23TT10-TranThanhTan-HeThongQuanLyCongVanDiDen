@@ -1,0 +1,45 @@
+@use '../../styles/variables.scss' as *;
+
+.head { display: flex; justify-content: space-between; align-items: center; margin: 8px 0 16px; }
+.grid { display: grid; grid-template-columns: 1fr  ; gap: 24px; margin-bottom: 24px; }
+.meta {
+  background: white; padding: 20px; border-radius: $radius; box-shadow: $shadow;
+  display: grid; grid-template-columns: 1fr 1fr; gap: 14px;
+}
+.preview { background: white; padding: 8px; border-radius: $radius; box-shadow: $shadow; }
+.noFile { padding: 40px; text-align: center; color: $text-muted; }
+.timeline {
+  background: white; padding: 20px; border-radius: $radius; box-shadow: $shadow; list-style: none;
+  li { padding: 12px 0; border-bottom: 1px solid $border;
+       &:last-child { border-bottom: none; } }
+}
+
+.emptyNote { color: $text-muted; font-style: italic; }
+
+.confirmBox {
+  background: white; padding: 20px; border-radius: $radius; box-shadow: $shadow;
+  margin-bottom: 24px;
+  h3 { margin: 0 0 12px; }
+}
+.confirmTextarea { width: 100%; box-sizing: border-box; margin-bottom: 10px; padding: 8px; border: 1px solid $border; border-radius: 4px; font-family: inherit; font-size: 14px; resize: vertical; }
+.confirmErr { color: #dc2626; margin-bottom: 8px; font-size: 14px; }
+.confirmDone { color: #16a34a; font-weight: 500; font-size: 14px; }
+
+.confirmItem {
+  padding: 12px 0; border-bottom: 1px solid $border;
+  &:last-child { border-bottom: none; }
+}
+.confirmMeta { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; margin-bottom: 4px; }
+.roleTag { background: #eff6ff; color: #1d4ed8; padding: 1px 8px; border-radius: 999px; font-size: 12px; }
+.deptTag { background: #f0fdf4; color: #15803d; padding: 1px 8px; border-radius: 999px; font-size: 12px; }
+.confirmTime { color: $text-muted; font-size: 12px; margin-left: auto; }
+.confirmContent { color: #374151; font-style: italic; font-size: 14px; padding-left: 4px; }
+.head { display: flex; justify-content: space-between; align-items: flex-start; gap: 20px; background: #f3f4f6; border-radius: 12px; padding: 20px; margin: 12px 0 18px;}
+
+.headLeft { flex: 1;}
+
+.soCV { margin: 0 0 12px; font-size: 22px; font-weight: 700; color: #111827;}
+
+.summary { display: grid; grid-template-columns: repeat(2, minmax(220px, 1fr)); gap: 10px 24px; font-size: 15px; color: #374151;}
+
+.headRight { min-width: 120px; text-align: right; font-size: 18px;}
