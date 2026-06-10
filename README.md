@@ -42,6 +42,7 @@ Hệ thống giúp tối ưu quy trình xử lý văn bản, giảm thất lạc
 | mySQL | https://dev.mysql.com/downloads/installer/|
 |Visua Studio Code| https://code.visualstudio.com/download |
 | Video thuyết trình| https://drive.google.com/file/d/1JmNRD0jYBUfltp705HwodPapq5xmaYQO/view?usp=drive_link |
+| Link code dự phòng | https://drive.google.com/drive/folders/1zMzrzrLYruJo-omlqozyUI2DELfWlfXY?usp=drive_link |
   
 ## 📞 Contact
 
