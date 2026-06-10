@@ -41,6 +41,7 @@ Hệ thống giúp tối ưu quy trình xử lý văn bản, giảm thất lạc
 | NodeJS | https://nodejs.org/en/download |
 | mySQL | https://dev.mysql.com/downloads/installer/|
 |Visua Studio Code| https://code.visualstudio.com/download |
+| Video thuyết trình| https://drive.google.com/file/d/1JmNRD0jYBUfltp705HwodPapq5xmaYQO/view?usp=drive_link |
   
 ## 📞 Contact
 
